@@ -67,35 +67,6 @@ O token retornado é utilizado nas chamadas subsequentes da API.
 
 ---
 
-##Como Executar o Projeto
-
-```
-acessar o link
-npm install
-npm run dev
-```
-
-Acesse:
-```
-http://localhost:5173
-```
-
----
-
-## 📦 Build
-
-```bash
-npm run build
-```
-
----
-
-##Considerações
-
-O projeto prioriza clareza, organização e base sólida para evolução futura.
-
----
-
 ##Autoria
 
 Grasielle  Lima de Oliveira
