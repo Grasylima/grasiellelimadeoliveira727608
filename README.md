@@ -1,3 +1,4 @@
+# 🐾 Pet Manager – Frontend
 
 Projeto desenvolvido como parte do processo seletivo, com o objetivo de consumir a API pública de registro de Pets e seus Tutores do Estado de Mato Grosso.
 
@@ -25,6 +26,7 @@ Permitir:
 - Fetch API
 - React Hooks
 - Arquitetura em camadas (services / components)
+
 ---
 
 ##Autenticação
@@ -40,6 +42,7 @@ O token retornado é utilizado nas chamadas subsequentes da API.
 > A funcionalidade de refresh token (`PUT /autenticacao/refresh`) foi mapeada, porém não automatizada nesta versão, conforme priorização de escopo.
 
 ---
+
 ##Funcionalidades Implementadas
 
 ###Tela Inicial – Listagem de Pets
@@ -62,13 +65,38 @@ O token retornado é utilizado nas chamadas subsequentes da API.
 - Upload de fotos
 - Vinculação Pet–Tutor
 
-
 ---
 
 ##Como Executar o Projeto
 
+```
+acessar o link
+npm install
+npm run dev
+```
+
+Acesse:
+```
+http://localhost:5173
+```
+
+---
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+---
+
+##Considerações
+
+O projeto prioriza clareza, organização e base sólida para evolução futura.
+
+---
 
 ##Autoria
 
-Grasielle Lima de Oliveira
-Processo seletivo 
+Grasielle  Lima de Oliveira
+Processo seletivo – Desenvolvedora Front End
